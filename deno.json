@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "noUncheckedIndexedAccess": true,
+    "exactOptionalPropertyTypes": true
+  },
+  "tasks": {
+    "start": "deno run --check --watch --allow-net ./main.ts"
+  }
+}

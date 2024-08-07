@@ -1,0 +1,22 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "npm:preact": "npm:preact@10.22.1",
+      "npm:preact-render-to-string": "npm:preact-render-to-string@6.5.5_preact@10.22.1"
+    },
+    "npm": {
+      "preact-render-to-string@6.5.5_preact@10.22.1": {
+        "integrity": "sha512-KiMFTKNTmT/ccE79BURR/r6XRc2I2TCTZ0MpeWqHW2XnllbeghXvwGsdAfF/MzMilUcTfODtSmMxgoRFL9TM5g==",
+        "dependencies": {
+          "preact": "preact@10.22.1"
+        }
+      },
+      "preact@10.22.1": {
+        "integrity": "sha512-jRYbDDgMpIb5LHq3hkI0bbl+l/TQ9UnkdQ0ww+lp+4MMOdqaUYdFc5qeyP+IV8FAd/2Em7drVPeKdQxsiWCf/A==",
+        "dependencies": {}
+      }
+    }
+  },
+  "remote": {}
+}
